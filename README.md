@@ -1,6 +1,6 @@
-# Project Name
+# Code for master project
 
-[Code for master project: Simulation and parameter identification of linear shear wave equation using physics-informed neural networks: a feasibility study ]
+[Simulation and parameter identification of linear shear wave equation using physics-informed neural networks: a feasibility study ]
 
 ## Environment
 
